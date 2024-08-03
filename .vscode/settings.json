@@ -1,0 +1,14 @@
+{
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/assets/css"
+    }
+  ],
+  "liveSassCompile.settings.includeItems": [
+    "/styles/*.scss",
+    "/styles/pages/*.scss",
+  ],
+  "eslint.enable": true
+}
